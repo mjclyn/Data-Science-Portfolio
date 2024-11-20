@@ -9,7 +9,7 @@ All my visuals can be found on my [Tableau Profile](https://public.tableau.com/a
 
 # Stocks 2023 Project
 I analyzed Investor Business Daily's 100 Best Stocks 2023 and found the top 25% of stocks that are high reward and low risk. I imported the closing stock of yfiance database and cleaned the dataframe. I created a plot that is divided into four quadrants determined by the third quartile of the mean and standard deviation. The top left quadrant represents the highest profit with the lowest risk. 
-![Profit vs Risk Plot](Data-Science-Portfolio/blob/main/Profit.vs.Risk.png) 
+![Profit vs Risk Plot](Profit.vs.Risk.png) 
 
 
 The stocks in this quadrant are ‘NVDA’, ‘SKYW’, ‘CAMT’, ‘XPO’, ‘STRL’, AMR’, ‘BLDR’, ‘CRWD’, ‘META, ‘RCL’, ‘FTAI’, and ‘MHO’. The code can be found here on [github](https://github.com/mjclyn/Data-Science-Portfolio/blob/main/Stocks2023Project.ipynb) and the analysis summary can be found [here](https://docs.google.com/document/d/1sZhbHKJcIMRkBgv-FwrpaJw4TuuXVPfLh1NNdlwkUtk/edit?usp=sharing)
